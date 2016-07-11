@@ -13,7 +13,7 @@ We can use Docker containers. Docker allows us to package our applications in co
 
 1) Host a container registry on a UAlbany a server. [Project Atomic Registry](http://www.projectatomic.io/registry/).
 
-2) Mirror a stable version of the Docker playform for all desktop OS's (Linux/MacOS/Windows) for students/faculty to download.
+2) Mirror a stable version of the Docker platform for all desktop OS's (Linux/MacOS/Windows) for students/faculty to download.
 
 3) Write documentation for how students can create custom Docker images, push them to the registry, and how graders (TA's/professors) can pull them for grading
 
