@@ -20,3 +20,8 @@ We can use containers. Containers allow us to package our applications, run them
 4) Write scripts to automate this process
 
 5) Work with faculty to get our system into use
+
+
+### Current work
+
+- The current working base image is currently hosted on [Docker Hub](https://hub.docker.com/r/ualbanyacm/standard/)
